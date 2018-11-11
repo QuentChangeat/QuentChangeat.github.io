@@ -6,9 +6,9 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://quentchangeat.github.io/"
 # Use following baseurl for local hosting
-#baseurl: ""
+baseurl: ""
 # Use this for cmu hosting
-baseurl: "/user/kluckow"
+#baseurl: "/user/kluckow"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -147,8 +147,8 @@ scholar:
   group_order: ascending
 
   source: ./_bibliography
-  bibliography: references.bib
-  bibliography_template: bibtemplate
+  #bibliography: references.bib
+  #bibliography_template: bibtemplate
   repository: papers
 
   replace_strings: true
