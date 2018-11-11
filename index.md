@@ -18,7 +18,7 @@ My current research interests include:
 ### Contact
 Email (preferred): [quentin.changeat18@ucl.ac.uk](mailto:quentin.changeat18@ucl.ac.uk)  
 
-**Kasper Søe Luckow**  
+**Quentin Changeat**  
 UCL Department of Physics and Astronomy
 Gower St, Bloomsbury 
 London WC1E 6BT 
