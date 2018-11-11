@@ -4,5 +4,5 @@ title: CV
 subtitle: 
 ---
 
-This will be my CV
+* Academic *
 
