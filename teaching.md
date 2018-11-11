@@ -8,4 +8,4 @@ subtitle:
 
 As part of the independant low cost space telescope initiative Twinkle, I participate in the education program by providing introductory lectures on exoplanets to high scool students. Lectures cover the solar system, detection methods, telescopes, atmospheres and interiors. 
 
-[lecture notes](https://liveuclac-my.sharepoint.com/:f:/r/personal/ucapqch_ucl_ac_uk/Documents/ORBYTs?csf=1&e=72ZMw2)
+[lecture notes](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EgDOXABg22VDlDgFrhmss7YB6TM87CLZblsAZaTJEeRHkw)
