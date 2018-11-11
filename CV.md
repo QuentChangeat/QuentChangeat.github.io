@@ -12,3 +12,6 @@ subtitle:
 * 2013 - 2016: Ecole des Mines Douai - MEng in General Engineering 
 * 2010 - 2013: Lycee Daudet Nimes - Classe preparatoire CPGE Maths-Physique 
 
+
+My [CV](/img/cv_quentin_changeat.pdf)
+
