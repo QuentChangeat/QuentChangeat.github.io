@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Projects
-subtitle: Tools / Projects / Ideas
+subtitle: 
 ---
-Here are some of the projects/tools I'm currently working on.
+
 
 ### TauREx
 [TauREx](https://ingo1807.github.io/website/journal/TauREx/) (Tau Retrieval for Exoplanets) is a line-by-line emission/transmission spectroscopy retrieval suite for exoplanets atmospheres. The forward model allows to accurately simulate exoplanets spectrum based on input parameters (orbital parameters, chemical composition, temperature profile...). Using Bayesian statistics, TauREx can also retrieve the exoplanets parameters from real observations or simulated data. 
