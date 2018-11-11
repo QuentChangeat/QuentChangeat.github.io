@@ -19,7 +19,7 @@ My current research interests include:
 Email (preferred): [quentin.changeat18@ucl.ac.uk](mailto:quentin.changeat18@ucl.ac.uk)  
 
 **Quentin Changeat**  
-UCL Department of Physics and Astronomy
-Gower St, Bloomsbury 
-London WC1E 6BT 
+UCL Department of Physics and Astronomy <br />
+Gower St, Bloomsbury <br />
+London WC1E 6BT
 
