@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quentin Changeat Academic website
+title: Quentin Changeat
 subtitle: PhD at University College London
 ---
 
