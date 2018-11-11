@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Publications: "publications"
   Projects: "projects"
-    TAUREx: "taurex"
+  Projects/TAUREx: "taurex"
   CV: "CV"
   #  Contact: "contact"
   # Resources:
