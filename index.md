@@ -15,17 +15,11 @@ My current research interests include:
 - Fundamental physics and Mathematics
 
 
-During my Ph.D., I worked on temporal verification of real-time embedded systems using a combination of static analysis and Timed Automata model checking using the [UPPAAL](http://www.uppaal.org/) model checker. As part of this effort, I developed TetaSARTS, a tool for generating a Timed Automata description from Java real-time systems written in Safety Critical Java. Among others, I also developed a time predictable version of the [Hardware near Virtual Machine](http://www.icelab.dk/) (HVM), a lean and portable JVM implementation targeting embedded systems.
-
-In 2013, I was a visiting researcher at [NASA Ames Research Center](https://www.nasa.gov/centers/ames/home/index.html), Mountain View, where I worked with [Corina Păsăreanu](https://ti.arc.nasa.gov/profile/pcorina/) on symbolic execution, temporal analysis of systems, and probabilistic software analysis.
-
-
 ### Contact
-Email (preferred): [kasper.luckow@sv.cmu.edu](mailto:kasper.luckow@sv.cmu.edu)  
-Phone: (650) 335-2889
+Email (preferred): [quentin.changeat18@ucl.ac.uk](mailto:quentin.changeat18@ucl.ac.uk)  
 
 **Kasper Søe Luckow**  
-NASA Research Park  
-Building 19, Room 1006  
-Moffett Field, CA 94035  
+UCL Department of Physics and Astronomy
+Gower St, Bloomsbury 
+London WC1E 6BT 
 
