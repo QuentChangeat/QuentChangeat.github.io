@@ -4,7 +4,7 @@ title: CV
 subtitle: 
 ---
 
-**Academic**
+**Curriculum**
 
 * 2018 - 2021: University College London - PhD in Physics supervised by Prof. Giovanna Tinetti
 * 2017 - 2018: University of Cambridge - Part III of the Mathematical Tripos
