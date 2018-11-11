@@ -12,7 +12,7 @@ My current research interests include:
 - Characterization of exoplanets and their atmospheres: composition, temperature profiles, dynamics.
 - Retrieval and Machine learning methods.
 - Space sciences: space missions, humans in space.
-- Fundamental physics and Mathematics
+- Fundamental Physics and Mathematics
 
 
 ### Contact
