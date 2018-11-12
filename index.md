@@ -16,7 +16,7 @@ My current research interests include:
 
 
 ### Contact
-Email (preferred): [quentin.changeat18@ucl.ac.uk](mailto:quentin.changeat18@ucl.ac.uk)  
+Email (preferred): [quentin.changeat.18@ucl.ac.uk](mailto:quentin.changeat18@ucl.ac.uk)  
 
 **Quentin Changeat**  
 UCL Department of Physics and Astronomy <br />
