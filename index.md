@@ -2,6 +2,8 @@
 layout: page
 title: Quentin Changeat
 subtitle: PhD at University College London
+bigimg: https://i0.wp.com/www.healththoroughfare.com/wp-content/uploads/2018/03/european-space-agency-to-launch-cheops-plato-ariel-study-exoplanets.jpg?resize=948%2C520&ssl=1
+
 ---
 
 I am a French PhD researcher in Physics at the University College London, currently investingating exoplanets atmospheres. My PhD is funded by the UK Space Agency and the European Research Council in the contexte of the Ariel Mission from ESA. The mission aims to build a 1m space telescope dedicated to characterize the composition of these extrasolar worlds and is planned to be launched in 2028. 
