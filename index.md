@@ -2,7 +2,6 @@
 layout: page
 title: Quentin Changeat
 subtitle: PhD at University College London
-bigimg: https://i0.wp.com/www.healththoroughfare.com/wp-content/uploads/2018/03/european-space-agency-to-launch-cheops-plato-ariel-study-exoplanets.jpg?resize=948%2C520&ssl=1
 
 ---
 
