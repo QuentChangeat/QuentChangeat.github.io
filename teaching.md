@@ -12,5 +12,5 @@ As part of the independant low cost space telescope initiative Twinkle, I partic
 
 [Python notebook](https://colab.research.google.com/drive/1dKtBacFXF8ahjZWxPA4ineJ0E8D7uU8j?fbclid=IwAR0vISBscAObo_OLWlddxSt3fLFbGftBbV6wKQRo7C4sC7MOFT3XXwsunrY)
 
-- [lecture notes](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EgDOXABg22VDlDgFrhmss7YB6TM87CLZblsAZaTJEeRHkw)
+[lecture notes](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EgDOXABg22VDlDgFrhmss7YB6TM87CLZblsAZaTJEeRHkw)
 
