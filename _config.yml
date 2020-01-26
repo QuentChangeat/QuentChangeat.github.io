@@ -28,7 +28,7 @@ description: Academic website
 navbar-links:
   # Links: "links"
   Home: ""
-  #Publications: "publications"
+  Publications: "publications"
   Projects: "projects"
   Teaching: "teaching"
   CV: "CV"
