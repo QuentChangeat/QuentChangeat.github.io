@@ -4,6 +4,6 @@ title: Publications
 subtitle: 
 ---
 
-I will try to keep the following list of publications up to date. Also, have a look at my [Google Scholar profile](https://scholar.google.com/citations?user=RnfTeq8AAAAJ) and [DBLP record](http://dblp.uni-trier.de/pers/hd/l/Luckow:Kasper_S=oslash=e).
+Have a look at my [arXiv profile](https://arxiv.org/a/0000-0001-6516-4493.html).
 
 
