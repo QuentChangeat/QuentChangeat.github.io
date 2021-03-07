@@ -1,5 +1,5 @@
 ---
-bigimg: img/image_band.jpg
+bigimg: img/image_band2.jpg
 layout: page
 title: Quentin Changeat
 subtitle: PhD at University College London
