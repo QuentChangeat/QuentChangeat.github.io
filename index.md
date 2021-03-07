@@ -6,15 +6,16 @@ subtitle: PhD at University College London
 
 ---
 
-I am a French PhD researcher in Physics at the University College London, currently investigating exoplanets atmospheres. My PhD is funded by the UK Space Agency and the European Research Council in the context of the Ariel Mission from ESA. The mission aims to build a 1m space telescope dedicated to characterize the composition of these extrasolar worlds and is planned to be launched in 2028. 
+I am a Postdoctoral researcher in Physics and Astronomy at the University College London where I study exoplanets atmospheres. I focuses on the analysis of current and future observations of exoplanets to understand the physics and the chemistry of their atmospheres. Using data-oriented techniques, I have characterised the atmosphere of planets ranging from the temperate super-Earth LHS-1140b to the extremely-hot Jupiter KELT-9b. I am developing new tools to simulate and study large  populations of exoplanet atmospheres from transit, eclipse and phase curve observations and evaluate the performances of next generation telescopes such as Ariel and JWST in answering some of the major questions of the field. My approach emphasises on the importance of mixing multiple disciplines to better understand exoplanet atmospheres.
+ 
 
 ### Research Interests
-My current research interests include:
+My research interests include:
 
 - Characterization of exoplanets and their atmospheres: composition, temperature profiles, dynamics.
 - Retrieval and Machine learning methods.
-- Space sciences: space missions, humans in space.
-- Fundamental Physics and Mathematics
+- Spacecraft and telescope design
+- Space science, physics and mathematics in general
 
 
 ### Contact
