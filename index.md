@@ -1,5 +1,5 @@
 ---
-bigimg: https://llm-guide.com/media/cache/school_banner/uploads/media/school/0001/25/ucl-20ecc.jpeg
+bigimg: img/image_band.jpeg
 layout: page
 title: Quentin Changeat
 subtitle: PhD at University College London
