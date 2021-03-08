@@ -6,7 +6,7 @@ subtitle: Researcher at University College London
 
 ---
 
-I am a Postdoctoral researcher in Physics and Astronomy at the University College London where I study exoplanets atmospheres. I focuses on the analysis of current and future observations of exoplanets to understand the physics and the chemistry of their atmospheres. Using data-oriented techniques, I have characterised the atmosphere of planets ranging from the temperate super-Earth LHS-1140b to the extremely-hot Jupiter KELT-9b. I am developing new tools to simulate and study large  populations of exoplanet atmospheres from transit, eclipse and phase curve observations and evaluate the performances of next generation telescopes such as Ariel and JWST in answering some of the major questions of the field. My approach emphasises on the importance of mixing multiple disciplines to better understand exoplanet atmospheres.
+I am a Postdoctoral researcher in Physics and Astronomy at the University College London where I study exoplanets atmospheres. I focus on the analysis of current and future observations of exoplanets to understand the physics and the chemistry of their atmospheres. Using data-oriented techniques, I have characterised the atmosphere of planets ranging from the temperate super-Earth LHS-1140b to the extremely-hot Jupiter KELT-9b. I am developing new tools to simulate and study large  populations of exoplanet atmospheres from transit, eclipse and phase curve observations and evaluate the performances of next generation telescopes such as Ariel and JWST in answering some of the major questions of the field. My approach emphasises on the importance of mixing multiple disciplines to better understand exoplanet atmospheres.
  
 
 ### Research Interests
