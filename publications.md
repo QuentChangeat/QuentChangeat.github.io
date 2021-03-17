@@ -7,7 +7,7 @@ subtitle:
 Have a look at my [arXiv profile](https://arxiv.org/a/0000-0001-6516-4493.html).
 
 
-### Main author publications (updated 17/03/21):
+### Last main author publications (updated 17/03/21):
 
 - Changeat & Edwards (2021) - The Hubble WFC3 Emission Spectrum of the Extremely-Hot Jupiter, KELT-9b ([arXiv](https://arxiv.org/abs/2101.00469))
 
@@ -22,7 +22,7 @@ Have a look at my [arXiv profile](https://arxiv.org/a/0000-0001-6516-4493.html).
 - Changeat et al. (2019) - Towards a more complex description of chemical profiles in exoplanets retrievals: A 2-layer parameterisation ([arXiv](https://arxiv.org/abs/1903.11180))
 
 
-### Co-authored publications:
+### Last co-authored publications:
 
 - Ito, Changeat et al. (2021) - Detectability of Rocky-Vapour Atmospheres on Super-Earths with Ariel ([arXiv](https://arxiv.org/abs/2103.04342))
 
