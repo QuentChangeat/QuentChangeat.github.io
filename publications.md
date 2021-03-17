@@ -7,13 +7,13 @@ subtitle:
 Have a look at my [arXiv profile](https://arxiv.org/a/0000-0001-6516-4493.html).
 
 
-Main author publications (updated 17/03/21):
+### Main author publications (updated 17/03/21):
 
 - Changeat & Edwards (2021) - The Hubble WFC3 Emission Spectrum of the Extremely-Hot Jupiter, KELT-9b ([arXiv](https://arxiv.org/abs/2101.00469))
 
-- Changeat et al. (2020d) - KELT-11 b: Abundances of water and constraints on carbon-bearing molecules from the Hubble transmission spectrum ([arXiv](https://arxiv.org/abs/2010.01310))
+- Changeat et al. (2020c) - KELT-11 b: Abundances of water and constraints on carbon-bearing molecules from the Hubble transmission spectrum ([arXiv](https://arxiv.org/abs/2010.01310))
 
-- Changeat & Al-Refaie (2020c) - TauREx3 PhaseCurve: A 1.5D model for phase curve description ([arXiv](https://arxiv.org/abs/2006.14237))
+- Changeat & Al-Refaie (2020) - TauREx3 PhaseCurve: A 1.5D model for phase curve description ([arXiv](https://arxiv.org/abs/2006.14237))
 
 - Changeat et al. (2020b) - Alfnoor: A Retrieval Simulation of the Ariel Target List ([arXiv](https://arxiv.org/abs/2003.01839))
 
@@ -22,7 +22,7 @@ Main author publications (updated 17/03/21):
 - Changeat et al. (2019) - Towards a more complex description of chemical profiles in exoplanets retrievals: A 2-layer parameterisation ([arXiv](https://arxiv.org/abs/1903.11180))
 
 
-Co-authored publications:
+### Co-authored publications:
 
 - Ito, Changeat et al. (2021) - Detectability of Rocky-Vapour Atmospheres on Super-Earths with Ariel ([arXiv](https://arxiv.org/abs/2103.04342))
 
