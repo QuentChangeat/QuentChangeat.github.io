@@ -7,7 +7,7 @@ subtitle:
 Have a look at my [arXiv profile](https://arxiv.org/a/0000-0001-6516-4493.html).
 
 
-### Recent main author publications (updated 29/03/21):
+### Recent main author publications (updated 08/05/21):
 
 - Changeat et al. (2021) - An exploration of model degeneracies with a unified phase curve retrieval analysis: The light and dark sides of WASP-43 b ([arXiv](https://arxiv.org/abs/2103.14566))
 
@@ -25,6 +25,10 @@ Have a look at my [arXiv profile](https://arxiv.org/a/0000-0001-6516-4493.html).
 
 
 ### Recent co-authored publications:
+
+- Tinetti et al. (2021) - Ariel: Enabling planetary science across light-years ([arXiv](https://arxiv.org/abs/2104.04824))
+
+- Mugnai et al. (2021) - ARES V: No Evidence For Molecular Absorption in the HST WFC3 Spectrum of GJ 1132 b ([arXiv](https://arxiv.org/abs/2104.01873))
 
 - Ito, Changeat et al. (2021) - Detectability of Rocky-Vapour Atmospheres on Super-Earths with Ariel ([arXiv](https://arxiv.org/abs/2103.04342))
 
