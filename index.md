@@ -3,6 +3,7 @@ bigimg: img/image_band2.jpg
 layout: page
 title: Quentin Changeat
 subtitle: Researcher at University College London
+css: custom/main.css
 
 ---
 
