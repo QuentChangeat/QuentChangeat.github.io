@@ -22,6 +22,9 @@ My research interests include:
 ### Contact
 Email (preferred): quentin.changeat.18 [at] ucl.ac.uk 
 
+### Curriculum Vitae
+[CV here](img/cv_quentin_changeat.pdf)
+
 **Quentin Changeat**  
 UCL Department of Physics and Astronomy <br />
 Gower St, Bloomsbury <br />
