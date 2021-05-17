@@ -31,7 +31,7 @@ navbar-links:
   Publications: "publications"
   Projects: "projects"
   Teaching: "teaching"
-  CV: "CV"
+  #CV: "CV"
   #  Contact: "contact"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
