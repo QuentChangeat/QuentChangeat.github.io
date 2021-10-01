@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 ---
 
-Have a look at my [arXiv profile](https://arxiv.org/a/0000-0001-6516-4493.html).
+Have a look at my [ADS list of publications](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg).
 
 
 ### Recent main author publications (updated 08/05/21):
