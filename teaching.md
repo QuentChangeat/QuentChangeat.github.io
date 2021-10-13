@@ -4,6 +4,17 @@ title: Teaching
 subtitle: 
 ---
 
+**[ARES II](http://www.iap.fr/useriap/beaulieu/ARIEL/ARIEL-School2021-index.html) Summer School 2021**
+
+Organisation and Teaching of the ARES Summer School 2021. This school will address the central question in exoplanetary retrieval of the accuracy of the modeling. As spectroscopic observations are slowly improving from simple composition retrieval towards more accurate atmospheric structure modeling, one-dimensional models in chemistry and cloud structure, or 2D models in global circulation may reach their limits.
+
+[L2 Atmospheric structure lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/Ea860jjAmnREtR_NDDYYK8cBFcKDvEoE5bbNvZierFycAA?e=dIVAbY)
+
+[L6 Retrieval lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EQFaXvD9j3pCir9cY5_eNGYB-I9B_6MadxGkSPPnEy8d8A?e=DtnJFZ)
+
+
+
+
 **High School [ORBYTs](http://www.twinkle-spacemission.co.uk/orbyts/) program: An introduction to exoplanetary sciences**
 
 As part of the independant low cost space telescope initiative Twinkle, I participate in the education program by providing introductory lectures on exoplanets to high scool students. Lectures cover the solar system, detection methods, telescopes, atmospheres and interiors. 
