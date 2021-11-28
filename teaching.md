@@ -4,7 +4,7 @@ title: Teaching
 subtitle: 
 ---
 
-### [Exosystemes II](https://exosystemes2.sciencesconf.org/)
+### Conference [Exosystemes II](https://exosystemes2.sciencesconf.org/)
 
 2h practical tutorial on Atmospheric retrieval with TauREX.
 
