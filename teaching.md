@@ -10,8 +10,6 @@ subtitle:
 
 [Link to the tutorial resources](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EuwHMBWvw7NEhC6bw32W-ZABZNuRGYjTVfSpdORDidvvYQ?e=5yhB4V)
 
-[Temporary Folder for participants](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/Epecr3ZWJYVGqkI5uhmchZcBQk3_O8HH6A2bLq7fxBBlvA)
-
 ### [ARES II](http://www.iap.fr/useriap/beaulieu/ARIEL/ARIEL-School2021-index.html) Summer School 2021
 
 Organisation and Teaching of the ARES Summer School 2021. This school will address the central question in exoplanetary retrieval of the accuracy of the modeling. As spectroscopic observations are slowly improving from simple composition retrieval towards more accurate atmospheric structure modeling, one-dimensional models in chemistry and cloud structure, or 2D models in global circulation may reach their limits.
