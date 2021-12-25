@@ -9,6 +9,8 @@ Have a look at my [ADS list of publications](https://ui.adsabs.harvard.edu/publi
 
 ### Recent main author publications (updated 08/05/21):
 
+- Changeat (2021) - On spectroscopic phase-curve retrievals: H2 dissociation and thermal inversion in the atmosphere of the ultra-hot Jupiter WASP-103 b ([arXiV](https://arxiv.org/abs/2112.09973))
+
 - Changeat et al. (2021) - An exploration of model degeneracies with a unified phase curve retrieval analysis: The light and dark sides of WASP-43 b ([arXiv](https://arxiv.org/abs/2103.14566))
 
 - Changeat & Edwards (2021) - The Hubble WFC3 Emission Spectrum of the Extremely-Hot Jupiter, KELT-9b ([arXiv](https://arxiv.org/abs/2101.00469))
@@ -25,6 +27,12 @@ Have a look at my [ADS list of publications](https://ui.adsabs.harvard.edu/publi
 
 
 ### Recent co-authored publications:
+
+- Gressier et al. (2021) - Near-infrared transmission spectrum of TRAPPIST-1 h using Hubble WFC3 G141 observations ([arXiv](https://arxiv.org/abs/2112.05510))
+
+- Mugnai et al. (2021) - Alfnoor: assessing the information content of Ariel's low resolution spectra with planetary population studies ([arXiv](https://arxiv.org/abs/2110.00503))
+
+- Anisman et al. (2021) - Cross-sections for heavy atmospheres: H2O continuum ([arXiv](https://arxiv.org/abs/2110.00403))
 
 - Tinetti et al. (2021) - Ariel: Enabling planetary science across light-years ([arXiv](https://arxiv.org/abs/2104.04824))
 
