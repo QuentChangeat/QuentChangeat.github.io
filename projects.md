@@ -11,6 +11,6 @@ subtitle:
 <br clear="left"/>
 
 ### ESA ARIEL
-<img src="https://quentchangeat.github.io/img/preview_ariel.png" alt="taurex" width="15%" height="15%" align="left">
+<img src="https://quentchangeat.github.io/img/preview_ariel.png" alt="ariel" width="15%" height="15%" align="left">
 [ARIEL](https://ariel-spacemission.eu/) (Atmospheric Remote-sensing Exoplanet Large-survey) is one of the next medium-class missions selected by the European Space Agency. The telescope is due to launch in 2028 with the goal to observe thousands of exoplanets atmospheres to get insight on their composition and properties. 
 <br clear="left"/>
