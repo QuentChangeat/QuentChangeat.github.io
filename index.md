@@ -18,14 +18,15 @@ My research interests include:
 - Spacecraft and telescope design
 - Space science, physics and mathematics in general
 
-
-### Contact
-Email (preferred): quentin.changeat.18 [at] ucl.ac.uk 
-
 ### Curriculum Vitae
 [CV here](img/cv_quentin_changeat.pdf)
 
 [PhD thesis](https://liveuclac-my.sharepoint.com/:b:/g/personal/ucapqch_ucl_ac_uk/EbUUk7ogPXVMrgRNv1yby5ABcuFv7nszdmY9Fc0n9sWjfA)
+
+
+
+### Contact
+Email (preferred): quentin.changeat.18 [at] ucl.ac.uk 
 
 **Quentin Changeat**  
 UCL Department of Physics and Astronomy <br />
