@@ -6,7 +6,7 @@ subtitle:
 
 
 ### TauREx
-<img src="img/taurex-3-oct2021.png" alt="taurex" width="10%" height="10%">
+<img src="https://quentchangeat.github.io/img/taurex-3-oct2021.png" alt="taurex" width="10%" height="10%" style="float">
 [TauREx](https://github.com/ucl-exoplanets/TauREx3_public) (Tau Retrieval for Exoplanets) is a line-by-line emission/transmission spectroscopy retrieval suite for exoplanets atmospheres. The forward model allows to accurately simulate exoplanets spectrum based on input parameters (orbital parameters, chemical composition, temperature profile...). Using Bayesian statistics, TauREx can also retrieve the exoplanets parameters from real observations or simulated data. The brand new version TauREx 3 is available at: [TauREx3 documentation](https://taurex3-public.readthedocs.io/en/latest/)!
 
 ### ESA ARIEL
