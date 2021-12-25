@@ -119,7 +119,7 @@ defaults:
     scope:
       path: "" # all files
     values:
-      layout: "minimal"
+      layout: "page"
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
