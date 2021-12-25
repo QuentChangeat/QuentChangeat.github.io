@@ -7,7 +7,7 @@ subtitle:
 Have a look at my [ADS list of publications](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg).
 
 
-### Recent main author publications (updated 08/05/21):
+### Recent main author publications (updated 22/12/21):
 
 - Changeat (2021) - On spectroscopic phase-curve retrievals: H2 dissociation and thermal inversion in the atmosphere of the ultra-hot Jupiter WASP-103 b ([arXiV](https://arxiv.org/abs/2112.09973))
 
