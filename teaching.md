@@ -3,6 +3,12 @@ layout: page
 title: Teaching
 subtitle: 
 ---
+### Winter School [Rencontre Exobiologiques RED’22](http://www.exobiologie.fr/red/index.php/en/red16-astrobiology-course/)
+
+Lecture: Space missions for Detection & characterisation of exoplanets.
+
+[Link to Lecture: ](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
+
 
 ### Conference [Exosystemes II](https://exosystemes2.sciencesconf.org/)
 
