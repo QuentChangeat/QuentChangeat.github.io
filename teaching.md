@@ -7,7 +7,7 @@ subtitle:
 
 Lecture: Space missions for Detection & characterisation of exoplanets.
 
-[Link to Lecture: ](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
+[Link to Lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
 
 
 ### Conference [Exosystemes II](https://exosystemes2.sciencesconf.org/)
