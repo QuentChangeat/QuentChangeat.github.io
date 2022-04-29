@@ -7,9 +7,11 @@ subtitle:
 Have a look at my [ADS list of publications](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg).
 
 
-### Recent main author publications (updated 22/12/21):
+### Recent main author publications (updated 29/04/22):
 
-- Changeat (2021) - On spectroscopic phase-curve retrievals: H2 dissociation and thermal inversion in the atmosphere of the ultra-hot Jupiter WASP-103 b ([arXiV](https://arxiv.org/abs/2112.09973))
+- Changeat, Edwards et al. (2022) - Five key exoplanet questions answered via the analysis of 25 hot Jupiter atmospheres in eclipse ([arXiv](https://arxiv.org/abs/2204.11729))
+
+- Changeat (2022) - On spectroscopic phase-curve retrievals: H2 dissociation and thermal inversion in the atmosphere of the ultra-hot Jupiter WASP-103 b ([arXiv](https://arxiv.org/abs/2112.09973))
 
 - Changeat et al. (2021) - An exploration of model degeneracies with a unified phase curve retrieval analysis: The light and dark sides of WASP-43 b ([arXiv](https://arxiv.org/abs/2103.14566))
 
@@ -27,6 +29,10 @@ Have a look at my [ADS list of publications](https://ui.adsabs.harvard.edu/publi
 
 
 ### Recent co-authored publications:
+
+- Anisman et al. (2022) - Cross-sections for heavy atmospheres: H2O self-broadening ([arXiv](https://arxiv.org/abs/2203.02335)) 
+
+- Barstow, Changeat et al. (2022) - A retrieval challenge exercise for the Ariel mission ([arXiv](https://arxiv.org/abs/2203.00482))
 
 - Gressier et al. (2021) - Near-infrared transmission spectrum of TRAPPIST-1 h using Hubble WFC3 G141 observations ([arXiv](https://arxiv.org/abs/2112.05510))
 
