@@ -7,7 +7,7 @@ subtitle:
 Have a look at my [ADS list of publications](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg).
 
 
-### Recent main author publications (updated 29/04/22):
+### Recent main author publications (updated 17/05/22):
 
 - Changeat, Edwards et al. (2022) - Five key exoplanet questions answered via the analysis of 25 hot Jupiter atmospheres in eclipse ([arXiv](https://arxiv.org/abs/2204.11729))
 
