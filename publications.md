@@ -30,9 +30,15 @@ Have a look at my [ADS list of publications](https://ui.adsabs.harvard.edu/publi
 
 ### Recent co-authored publications:
 
-- Anisman et al. (2022) - Cross-sections for heavy atmospheres: H2O self-broadening ([arXiv](https://arxiv.org/abs/2203.02335)) 
+- Yip, Changeat et al. (2022) - To Sample or Not To Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalising Flows ([arXiv](https://arxiv.org/abs/2205.07037))
+
+- Anisman et al. (2022) - Cross-sections for heavy atmospheres: H2O self-broadening ([arXiv](https://arxiv.org/abs/2203.02335))
+
+- Saba et al. (2022) - The transmission spectrum of WASP-17 b from the optical to the near-infrared wavelengths: combining STIS, WFC3 and IRAC datasets ([arXiv](https://arxiv.org/abs/2108.13721))
 
 - Barstow, Changeat et al. (2022) - A retrieval challenge exercise for the Ariel mission ([arXiv](https://arxiv.org/abs/2203.00482))
+
+- Al-Refaie, Changeat et al. (2022) - A comparison of chemical models of exoplanet atmospheres enabled by TauREx 3.1 ([arXiv](https://arxiv.org/abs/2110.01271))
 
 - Gressier et al. (2021) - Near-infrared transmission spectrum of TRAPPIST-1 h using Hubble WFC3 G141 observations ([arXiv](https://arxiv.org/abs/2112.05510))
 
