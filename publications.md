@@ -5,7 +5,7 @@ subtitle:
 ---
 
 
-To data, I have co-authored 40+ publications, of which 9 are first-author. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg) for the full record.
+To date, I have co-authored 40+ publications, of which 9 are first-author. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg) for the full record.
 
 
 ### Recent main author publications (updated 17/05/22):
