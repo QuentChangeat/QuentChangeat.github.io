@@ -4,7 +4,7 @@ title: Projects
 subtitle: 
 ---
 
-## Codes
+# Codes:
 
 ### TauREx
 <img src="https://quentchangeat.github.io/img/taurex-3-oct2021.png" alt="taurex" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
@@ -16,7 +16,7 @@ subtitle:
 Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabilities of TauREx to populations of atmospheres. It is used [in the context of Ariel](https://arxiv.org/abs/2003.01839) to simulate the mission performances, and on [real data](https://arxiv.org/abs/2204.11729) to perform large scale population analyses.
 <br clear="left"/>
 
-## Missions
+# Missions:
 
 ### Ariel
 <img src="https://quentchangeat.github.io/img/preview_ariel.png" alt="ariel" width="12%" height="12%" style="float:left; padding-right:4px">
@@ -25,6 +25,6 @@ Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabil
 
 ### JWST
 <img src="https://quentchangeat.github.io/img/jwst.png" alt="jwst" width="12%" height="12%" style="float:left; padding-right:4px">
-[NASA/ESA/CSA JWST](https://esawebb.org/) (James Webb Space Telescope) is the next great space observatory. Launched in December 2021, it is designed to answer the deepest questions of the universe by observing in the near to far infrared. JWST offers unique observing capabilities to revolutionise our knowledge of the Solar System, of star and planets formation, exoplanets, and other galaxies. As ESA fellow at STScI, I use Webb to observe exoplanet atmospheres.
+[NASA/ESA/CSA JWST](https://esawebb.org/) (James Webb Space Telescope) is the next great space observatory. Launched in December 2021, it is designed to answer the deepest questions of the universe by observing in the near to far infrared. JWST offers unique observing capabilities to revolutionise our knowledge of the Solar System, of star and planets formation, exoplanets, and other galaxies. As an ESA fellow at STScI, I use Webb to observe exoplanet atmospheres.
 <br clear="left"/>
 
