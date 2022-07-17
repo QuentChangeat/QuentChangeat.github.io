@@ -8,7 +8,7 @@ subtitle:
 To date, I have co-authored 40+ publications, of which 9 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg) for the full record.
 
 
-### Recent main author publications (updated 17/05/22):
+### Recent first-author publications (updated 17/05/22):
 
 - Changeat, Edwards et al. (2022) - Five key exoplanet questions answered via the analysis of 25 hot Jupiter atmospheres in eclipse ([arXiv](https://arxiv.org/abs/2204.11729))
 
