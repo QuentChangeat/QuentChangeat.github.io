@@ -4,10 +4,10 @@ title: Outreach
 subtitle: 
 ---
 ### Winter School [Rencontre Exobiologiques RED’22](http://www.exobiologie.fr/red/index.php/en/red16-astrobiology-course/)
-
+<img src="https://quentchangeat.github.io/img/red.png" alt="red" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
 Lecture: Space missions for Detection & characterisation of exoplanets.
-
-[Link to Lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
+This is an introductory course to extrasolar planets. It presents the history, the detection techniques, the principles involves in the observation of atmospheres as well as the main observatories.
+[Link to lecture Material](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
 
 
 ### Conference [Exosystemes II](https://exosystemes2.sciencesconf.org/)
