@@ -2,7 +2,7 @@
 bigimg: img/Artboard_jwst.png
 layout: page
 title: Quentin Changeat
-subtitle: Researcher at University College London
+subtitle: Researcher European Space Agency (ESA) / Space Telescope Science Institute (STScI)
 css: custom/main.css
 
 ---
