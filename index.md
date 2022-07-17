@@ -1,5 +1,5 @@
 ---
-bigimg: img/image_band2.jpg
+bigimg: img/Artboard_jwst.png
 layout: page
 title: Quentin Changeat
 subtitle: Researcher at University College London
