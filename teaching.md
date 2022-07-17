@@ -10,12 +10,12 @@ Note: The resources provided here are under Creative Commons License (CC BY).
 <img src="https://quentchangeat.github.io/img/red.png" alt="red" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
 Lecture: Space missions for Detection & characterisation of exoplanets.
 This is an introductory course to extrasolar planets. It presents the history, the detection techniques, the principles involves in the observation of atmospheres as well as the main observatories.
-[Link to lecture Material](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
+[Link to Material](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
 
 
 ### Conference [Exosystemes II](https://exosystemes2.sciencesconf.org/)
-
-2h practical tutorial on Atmospheric retrieval with TauREX.
+<img src="https://quentchangeat.github.io/img/exosystemes.png" alt="exosystems" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
+This material was produced as part of a 2h practical tutorial on Atmospheric retrieval with TauREX. It presents an introduction to atmospheric retrieval techniques and presents the basic functionalities of TauREx.
 
 [Link to the tutorial resources](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EuwHMBWvw7NEhC6bw32W-ZABZNuRGYjTVfSpdORDidvvYQ?e=5yhB4V)
 
@@ -31,7 +31,7 @@ Organisation and Teaching of the ARES Summer School 2021. This school will addre
 
 
 ### High School [ORBYTs](http://www.twinkle-spacemission.co.uk/orbyts/) program: An introduction to exoplanetary sciences
-<img src="https://quentchangeat.github.io/img/bssl.png" alt="red" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
+<img src="https://quentchangeat.github.io/img/bssl.png" alt="bssl" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
 
 As part of the [BSSL](https://www.twinkle-spacemission.co.uk/about/) independant low cost space telescope initiative Twinkle, I participate in the education program by providing introductory lectures on exoplanets to high scool students. Lectures cover the solar system, detection methods, telescopes, atmospheres and interiors. 
 
