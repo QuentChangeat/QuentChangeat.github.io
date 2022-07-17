@@ -31,7 +31,7 @@ Email (preferred): quentin.changeat.18 [at] ucl.ac.uk     <br />
 Space Telescope Science Institute (STScI) <br />
 3700 San Martin Dr <br />
 Baltimore MD 21218 <br />
-United States of America    <br />
+United States of America     <br />  
 **Visiting Researcher** <br />
 UCL Department of Physics and Astronomy <br />
 Gower St, Bloomsbury <br />
