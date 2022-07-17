@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Outreach
 subtitle: 
 ---
 ### Winter School [Rencontre Exobiologiques RED’22](http://www.exobiologie.fr/red/index.php/en/red16-astrobiology-course/)
