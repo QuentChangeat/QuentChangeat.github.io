@@ -6,8 +6,11 @@ subtitle:
 
 ### Highlights:
 
-<img src="https://quentchangeat.github.io/img/five_keys.png" alt="five_keys" width="25%" height="25%" align="left" style="float:left; padding-right:4px">
+<img src="https://quentchangeat.github.io/img/five_keys.png" alt="five_keys" width="30%" height="30%" align="left" style="float:left; padding-right:4px">
 **Hubble observations used to answer key exoplanet questions:** Archival observations of 25 hot Jupiters by the NASA/ESA Hubble Space Telescope have been analysed by an international team of astronomers, enabling them to answer five open questions important to our understanding of exoplanet atmospheres. Amongst other findings, the team found that the presence of metal oxides and hydrides in the hottest exoplanet atmospheres was clearly correlated with the atmospheres' being thermally inverted. [ESA Press Link](https://esahubble.org/news/heic2206/) - [UCL Press Link](https://www.ucl.ac.uk/news/2022/apr/mysteries-gas-giants-known-hot-jupiters-unravelled) - [Science Paper](https://iopscience.iop.org/article/10.3847/1538-4365/ac5cc2)     <br />  
+
+<img src="https://quentchangeat.github.io/img/five_keys.png" alt="ai" width="30%" height="30%" align="right" style="float:right; padding-left:4px">
+**AI can reliably spot molecules on exoplanets – and might one day even discover new laws of physics:** AI experts found that a well-trained AI relies heavily on physical phenomena, such as unique spectroscopic fingerprints – just like an astronomer would. The team at UCL developed the first method to have a sneaky peek into so-called “AI black-boxes”, allowing them to evaluate what the AIs have learnt. With these tools, researchers now can not only use AIs to speed up their analysis of exo-atmospheres, but they can also verify that their AI uses well-understood laws of nature. [The Conversation Link](https://theconversation.com/ai-can-reliably-spot-molecules-on-exoplanets-and-might-one-day-even-discover-new-laws-of-physics-172701) - [Science Paper](https://iopscience.iop.org/article/10.3847/1538-3881/ac1744)     <br />  
 
 
 To date, I have co-authored 40+ publications, of which 9 are first-author works (h-index: 16). Have a look at my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg) for the full record.
