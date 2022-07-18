@@ -6,7 +6,7 @@ subtitle:
 
 ### Highlights:
 
-<img src="https://quentchangeat.github.io/img/five_keys.png" alt="five_keys" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
+<img src="https://quentchangeat.github.io/img/five_keys.png" alt="five_keys" width="20%" height="20%" align="left" style="float:left; padding-right:4px">
 **Hubble observations used to answer key exoplanet questions:** Archival observations of 25 hot Jupiters by the NASA/ESA Hubble Space Telescope have been analysed by an international team of astronomers, enabling them to answer five open questions important to our understanding of exoplanet atmospheres. Amongst other findings, the team found that the presence of metal oxides and hydrides in the hottest exoplanet atmospheres was clearly correlated with the atmospheres' being thermally inverted. [ESA Press Link](https://esahubble.org/news/heic2206/)
 
 
