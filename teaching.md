@@ -10,18 +10,18 @@ Note: The resources provided here are under Creative Commons License (CC BY).
 <img src="https://quentchangeat.github.io/img/red.png" alt="red" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
 Lecture: Space missions for Detection & characterisation of exoplanets.
 This is an introductory course to extrasolar planets. It presents the history, the detection techniques, the principles involves in the observation of atmospheres as well as the main observatories.
-[Link to Material](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
+[Link to the Lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
 
 
 ### Conference [Exosystemes II](https://exosystemes2.sciencesconf.org/)
 <img src="https://quentchangeat.github.io/img/exosystemes.png" alt="exosystems" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
 This material was produced as part of a 2h practical tutorial on Atmospheric retrieval with TauREX. It presents an introduction to atmospheric retrieval techniques and presents the basic functionalities of TauREx.
 
-[Link to the tutorial resources](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EuwHMBWvw7NEhC6bw32W-ZABZNuRGYjTVfSpdORDidvvYQ?e=5yhB4V)
+[Link to TauREx tutorial](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EuwHMBWvw7NEhC6bw32W-ZABZNuRGYjTVfSpdORDidvvYQ?e=5yhB4V)
 
 ### Summer School [ARES](http://www.iap.fr/useriap/beaulieu/ARIEL/ARIEL-School2021-index.html) 2021
 
-Organisation and Teaching of the ARES Summer School 2021. This school will address the central question in exoplanetary retrieval of the accuracy of the modeling. As spectroscopic observations are slowly improving from simple composition retrieval towards more accurate atmospheric structure modeling, one-dimensional models in chemistry and cloud structure, or 2D models in global circulation may reach their limits.
+Organisation and Teaching of the ARES Summer School 2021. This school addressed the central question of modelling accuracy in the context of atmospheric retrievals for exoplanets. As spectroscopic observations are improving from simple composition retrieval towards inference of more accurate atmospheric structures, one-dimensional models in chemistry, clouds, or 2D models in global circulation may reach their limits. We explored the biases of simplifying assumptions on retrievals for next-generation observatories (JWST and Ariel).
 
 [L2 Atmospheric structure lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/Ea860jjAmnREtR_NDDYYK8cBFcKDvEoE5bbNvZierFycAA?e=dIVAbY)
 
@@ -33,13 +33,9 @@ Organisation and Teaching of the ARES Summer School 2021. This school will addre
 ### High School [ORBYTs](http://www.twinkle-spacemission.co.uk/orbyts/) program: An introduction to exoplanetary sciences
 <img src="https://quentchangeat.github.io/img/bssl.png" alt="bssl" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
 
-As part of the [BSSL](https://www.twinkle-spacemission.co.uk/about/) independant low cost space telescope initiative Twinkle, I participate in the education program by providing introductory lectures on exoplanets to high scool students. Lectures cover the solar system, detection methods, telescopes, atmospheres and interiors. 
-
-[Student survey](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1iEa3RBnsUDMjdKx37ORYvMlhizCLs6Cyr7lhY3vF9yc%2Fviewform%3Fedit_requested%3Dtrue%26fbclid%3DIwAR1GyZFSYfSSt3-gcWrOUC-jUwgRyCdR9RCFhgpVlwc015oHWx_uya_SDJk&h=AT2D1coBqIiWlxVm47eoR5dsSrUCO8T3aIVRFLVvl85sImN7iyaMtb3DfyJn2C4jYT97H7yDktTTSn9nLSby7w93nYpMMkFiWJ1ePoqlbnuVKB3J3eX8ttVJ5x8Yc0Ov9eTLZKRa)
-
-[Student survey mid program](https://www.surveymonkey.co.uk/r/7HDPFKK)
+As part of the [BSSL](https://www.twinkle-spacemission.co.uk/about/) independant low cost space telescope initiative Twinkle, I participated in their education program by providing introductory lectures on exoplanets to high scool students. Lectures cover the solar system, detection methods, telescopes, atmospheres and interiors. 
 
 [Python notebook](https://colab.research.google.com/drive/1dKtBacFXF8ahjZWxPA4ineJ0E8D7uU8j?fbclid=IwAR0vISBscAObo_OLWlddxSt3fLFbGftBbV6wKQRo7C4sC7MOFT3XXwsunrY)
 
-[lecture notes](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EgDOXABg22VDlDgFrhmss7YB6TM87CLZblsAZaTJEeRHkw)
+[Lecture notes](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EgDOXABg22VDlDgFrhmss7YB6TM87CLZblsAZaTJEeRHkw)
 
