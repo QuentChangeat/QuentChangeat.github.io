@@ -33,8 +33,13 @@ Space Telescope Science Institute (STScI) <br />
 Baltimore MD 21218 <br />
 United States of America     <br />  
 **Postdoctoral Researcher** <br />
-UCL Department of Physics and Astronomy <br />
+Department of Physics and Astronomy, University College London <br />
 Gower St, Bloomsbury <br />
 London WC1E 6BT <br />
-United Kingdom
+United Kingdom     <br />  
+**Guest Researcher** <br />
+Centre for Computational Astrophysics, Simons Foundation <br />
+162 5th Ave 9th floor <br />
+New York NY 10010 <br />
+United States of America
 
