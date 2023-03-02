@@ -4,7 +4,7 @@ title: Projects
 subtitle: 
 ---
 
-# Codes:
+# Code Development:
 
 ### TauREx
 <img src="https://quentchangeat.github.io/img/taurex-3-oct2021.png" alt="taurex" width="20%" height="20%" align="left" style="float:left; padding-right:4px">
@@ -17,7 +17,7 @@ Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabil
 <br clear="left"/>       <br />
 
 
-# Missions:
+# Exoplanet Missions:
 
 ### Hubble Space Telescope
 <img src="https://quentchangeat.github.io/img/preview_hst.png" alt="hst" width="20%" height="20%" style="float:left; padding-right:4px">
