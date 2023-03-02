@@ -20,23 +20,25 @@ My research contribution includes 50+ publications, of which 11 are first-author
 
 ### Recent first-author publications (updated 02/03/23):
 
-- Changeat, Edwards et al. (2022) - Five key exoplanet questions answered via the analysis of 25 hot Jupiter atmospheres in eclipse ([arXiv](https://arxiv.org/abs/2204.11729))
+- Changeat, Edwards et al. (2022) - Five key exoplanet questions answered via the analysis of 25 hot Jupiter atmospheres in eclipse, ApJS 260 3 ([arXiv](https://arxiv.org/abs/2204.11729))
 
-- Changeat (2022) - On spectroscopic phase-curve retrievals: H2 dissociation and thermal inversion in the atmosphere of the ultra-hot Jupiter WASP-103 b ([arXiv](https://arxiv.org/abs/2112.09973))
+- Changeat (2022) - On spectroscopic phase-curve retrievals: H2 dissociation and thermal inversion in the atmosphere of the ultra-hot Jupiter WASP-103 b, AJ 163 106 ([arXiv](https://arxiv.org/abs/2112.09973))
 
-- Changeat et al. (2021) - An exploration of model degeneracies with a unified phase curve retrieval analysis: The light and dark sides of WASP-43 b ([arXiv](https://arxiv.org/abs/2103.14566))
+- Changeat et al. (2022) - Disentangling Atmospheric Compositions of K2-18 b with Next Generation Facilities, ExA 53 391 ([arXiv](https://arxiv.org/abs/2003.01486))
 
-- Changeat & Edwards (2021) - The Hubble WFC3 Emission Spectrum of the Extremely-Hot Jupiter, KELT-9b ([arXiv](https://arxiv.org/abs/2101.00469))
+- Changeat et al. (2021) - An exploration of model degeneracies with a unified phase curve retrieval analysis: The light and dark sides of WASP-43 b, ApJ 913 73 ([arXiv](https://arxiv.org/abs/2103.14566))
 
-- Changeat et al. (2020c) - KELT-11 b: Abundances of water and constraints on carbon-bearing molecules from the Hubble transmission spectrum ([arXiv](https://arxiv.org/abs/2010.01310))
+- Changeat & Edwards (2021) - The Hubble WFC3 Emission Spectrum of the Extremely-Hot Jupiter, KELT-9b, ApJ 907 22 ([arXiv](https://arxiv.org/abs/2101.00469))
 
-- Changeat & Al-Refaie (2020) - TauREx3 PhaseCurve: A 1.5D model for phase curve description ([arXiv](https://arxiv.org/abs/2006.14237))
+- Changeat et al. (2020c) - KELT-11 b: Abundances of water and constraints on carbon-bearing molecules from the Hubble transmission spectrum, AJ 160 260 ([arXiv](https://arxiv.org/abs/2010.01310))
 
-- Changeat et al. (2020b) - Alfnoor: A Retrieval Simulation of the Ariel Target List ([arXiv](https://arxiv.org/abs/2003.01839))
+- Changeat & Al-Refaie (2020) - TauREx3 PhaseCurve: A 1.5D model for phase curve description, ApJ 898 155 ([arXiv](https://arxiv.org/abs/2006.14237))
 
-- Changeat et al. (2020a) - Impact of planetary mass uncertainties on exoplanet atmospheric retrievals ([arXiv](https://arxiv.org/abs/1908.06305))
+- Changeat et al. (2020b) - Alfnoor: A Retrieval Simulation of the Ariel Target List, AJ 160 80 ([arXiv](https://arxiv.org/abs/2003.01839))
 
-- Changeat et al. (2019) - Towards a more complex description of chemical profiles in exoplanets retrievals: A 2-layer parameterisation ([arXiv](https://arxiv.org/abs/1903.11180))
+- Changeat et al. (2020a) - Impact of planetary mass uncertainties on exoplanet atmospheric retrievals, ApJ 896 107 ([arXiv](https://arxiv.org/abs/1908.06305))
+
+- Changeat et al. (2019) - Towards a more complex description of chemical profiles in exoplanets retrievals: A 2-layer parameterisation, ApJ 886 39 ([arXiv](https://arxiv.org/abs/1903.11180))
 
 
 ### Major co-authored publications:
