@@ -21,7 +21,7 @@ Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabil
 
 ### Hubble Space Telescope
 <img src="https://quentchangeat.github.io/img/preview_hst.png" alt="hst" width="20%" height="20%" style="float:left; padding-right:4px">
-[HST](https://esahubble.org/) has been the workhorse of exoplanet atmospheric characterization since their discovery. While not originally designed to observe exoplanets, inovative techniques and new observing modes have allowed to leverage the capabilities of this 2.5m space telescope to obtain high quality spectra of exo-atmospheres. Since the begining of my PhD, I have worked with Wide Field Camera 3 onboard the telescope to analyse and extract population level trends for about 80 exoplanets, conducting the largest such surveys to date.
+[HST](https://esahubble.org/) has been the workhorse of exoplanet atmospheric characterization since their discovery. While not originally designed to observe exoplanets, inovative techniques and new observing modes have allowed to leverage the capabilities of this 2.5m space telescope to obtain high quality spectra of exo-atmospheres. Since the begining of my PhD, I have worked with Wide Field Camera 3 onboard the telescope to analyse and extract population level trends for about 80 objects, conducting the largest such surveys of exo-atmospheres to date.
 <br clear="left"/>
 
 ### Ariel
