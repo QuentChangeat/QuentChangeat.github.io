@@ -19,13 +19,18 @@ Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabil
 
 # Missions:
 
+### Hubble Space Telescope
+<img src="https://quentchangeat.github.io/img/preview_hst.png" alt="hst" width="20%" height="20%" style="float:left; padding-right:4px">
+[HST](https://esahubble.org/) has been the workhorse of exoplanet atmospheric characterization since their discovery. While not originally designed to observe exoplanets, inovative techniques and new observing modes have allowed to leverage the capabilities of this 2.5m space telescope to obtain high quality spectra of exo-atmospheres. Since the begining of my PhD, I have worked with Wide Field Camera 3 onboard the telescope to analyse and extract population level trends for about 80 exoplanets, conducting the largest such surveys to date.
+<br clear="left"/>
+
 ### Ariel
 <img src="https://quentchangeat.github.io/img/preview_ariel.png" alt="ariel" width="20%" height="20%" style="float:left; padding-right:4px">
 [ESA Ariel](https://ariel-spacemission.eu/) (Atmospheric Remote-sensing Exoplanet Large-survey) is one of the next medium-class missions selected by the European Space Agency. The 1m class telescope is due to launch in 2029 with the goal to observe thousands of exoplanets atmospheres to get insight on their composition and properties. I am one of the key consortium member, leading the Spectral Retrieval Working group, where I help define the science goals and evaluating the performance of the mission.
 <br clear="left"/>
 
-### JWST
+### James Webb Space Telescope
 <img src="https://quentchangeat.github.io/img/jwst.png" alt="jwst" width="20%" height="20%" style="float:left; padding-right:4px">
-[NASA/ESA/CSA JWST](https://esawebb.org/) (James Webb Space Telescope) is the next great space observatory. Launched in December 2021, it is designed to answer the deepest questions of the universe by observing in the near to far infrared. JWST offers unique observing capabilities to revolutionise our knowledge of the Solar System, of star and planets formation, exoplanets, and other galaxies. As an ESA fellow at STScI, I use Webb to observe exoplanet atmospheres.
+[NASA/ESA/CSA JWST](https://esawebb.org/) is the next great space observatory. Launched in December 2021, it is designed to answer the deepest questions of the universe by observing in the near to far infrared. JWST offers unique observing capabilities to revolutionise our knowledge of the Solar System, of star and planets formation, exoplanets, and other galaxies. As an ESA fellow at STScI, I use Webb to observe exoplanet atmospheres from transit, eclipse phase-curves and direct-image observations. I specialize in recovering the properties of observed exoplanets, such as thermal structure, chemistry or cloud composition using modern atmospheric retrieval techniques.
 <br clear="left"/>
 
