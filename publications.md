@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 ---
 
-My research contribution includes 50+ publications, of which 11 are first-author works (h-index: 19). Have a look at my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg) for the full record.       <br />       <br />       <br />  
+My research contribution includes 50+ publications, of which 11 are first-author works (h-index: 23). Have a look at my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg) for the full record.       <br />       <br />       <br />  
 
 ### Highlights:
 
