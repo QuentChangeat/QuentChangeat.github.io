@@ -14,7 +14,7 @@ To analyse exoplanet atmospheric data, I have developed a number of tools and ne
 ### Research Interests
 My research interests include:
 
-- Characterization of exoplanets.
+- Physics and chemistry of exoplanets.
 - Retrieval and Machine learning methods.
 - Science.
 
