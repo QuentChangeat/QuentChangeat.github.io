@@ -6,7 +6,7 @@ subtitle:
 
 My research contribution includes 50+ publications, of which 11 are first-author works (h-index: 23). Have a look at my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg) for the full record.       <br />       <br />       <br />  
 
-### Highlights:
+### Highlights:       <br /> 
 
 <img src="https://quentchangeat.github.io/img/wasp39.jpg" alt="ai" width="40%" height="30%" align="right" style="float:right; padding-left:4px">
 **NASA’s Webb Reveals an Exoplanet Atmosphere as Never Seen Before (Dec 2022):** WASP-39 b is a planet unlike any in our solar system – a Saturn-sized behemoth that orbits its star closer than Mercury is to our Sun. This exoplanet was one of the first examined by NASA’s James Webb Space Telescope when it began regular science operations. The results have excited the exoplanet science community. Webb’s exquisitely sensitive instruments have provided a profile of WASP-39 b’s atmospheric constituents and identified a plethora of contents, including water, sulfur dioxide, carbon monoxide, sodium and potassium. The findings bode well for the capability of Webb’s instruments to conduct the broad range of investigations of all types of exoplanets, including small, rocky worlds like those in the TRAPPIST-1 system. [Press Release](https://webbtelescope.org/contents/news-releases/2022/news-2022-060) - [Link to the ERS Paper](https://www.nature.com/articles/s41586-022-05269-w)     <br />       <br />       <br />  
