@@ -32,14 +32,9 @@ Space Telescope Science Institute (STScI) <br />
 3700 San Martin Dr <br />
 Baltimore MD 21218 <br />
 United States of America     <br />  
-**Postdoctoral Researcher** <br />
+**Honorary Research Fellow** <br />
 Department of Physics and Astronomy, UCL <br />
 Gower St, Bloomsbury <br />
 London WC1E 6BT <br />
 United Kingdom     <br />  
-**Guest Researcher** <br />
-Centre for Computational Astrophysics, Simons Foundation <br />
-162 5th Ave 9th floor <br />
-New York NY 10010 <br />
-United States of America
 
