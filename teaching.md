@@ -9,9 +9,11 @@ Note: The resources provided here are under Creative Commons License (CC BY).
 ### Lecture at Groningen: Minor Bodies in Exoplanetary Systems
 Teaching materials for the lecture on Minor Bodies in exoplanetary systems (University of Groningen).
 
-<u>Mini Lecture 1</u>: Importance for planetary formation and observations.       <br />
+Mini Lecture 1: Importance for planetary formation and observations.       <br />
 Slides: [Slides 31/10/23](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EYEp-gb9AitFmO1fwf5CcSIB2_naj1YCIsgPs7zJJ2bnxQ?e=4maJ3b)       <br />
 Problems: Problem 1, Problem 2.
+
+---
 
 ### Winter School [Rencontre Exobiologiques RED’22](http://www.exobiologie.fr/red/index.php/en/red16-astrobiology-course/)
 <img src="https://quentchangeat.github.io/img/red.png" alt="red" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
@@ -19,12 +21,15 @@ Lecture: Space missions for Detection & characterisation of exoplanets.
 This is an introductory course to extrasolar planets. It presents the history, the detection techniques, the principles involves in the observation of atmospheres as well as the main observatories.
 [Link to the Lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
 
+---
 
 ### Conference [Exosystemes II](https://exosystemes2.sciencesconf.org/)
 <img src="https://quentchangeat.github.io/img/exosystemes.png" alt="exosystems" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
 This material was produced as part of a 2h practical tutorial on Atmospheric retrieval with TauREX. It presents an introduction to atmospheric retrieval techniques and presents the basic functionalities of TauREx.
 
 [Link to TauREx tutorial](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EuwHMBWvw7NEhC6bw32W-ZABZNuRGYjTVfSpdORDidvvYQ?e=5yhB4V)
+
+---
 
 ### Summer School [ARES](http://www.iap.fr/useriap/beaulieu/ARIEL/ARIEL-School2021-index.html) 2021
 
@@ -34,8 +39,7 @@ Organisation and Teaching of the ARES Summer School 2021. This school addressed 
 
 [L6 Retrieval lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EQFaXvD9j3pCir9cY5_eNGYB-I9B_6MadxGkSPPnEy8d8A?e=DtnJFZ)
 
-
-
+---
 
 ### High School [ORBYTs](http://www.twinkle-spacemission.co.uk/orbyts/) program: An introduction to exoplanetary sciences
 <img src="https://quentchangeat.github.io/img/bssl.png" alt="bssl" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
