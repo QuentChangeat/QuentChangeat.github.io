@@ -6,6 +6,9 @@ subtitle:
 
 Note: The resources provided here are under Creative Commons License (CC BY). 
 
+
+---
+
 ### Lecture at Groningen: Minor Bodies in Exoplanetary Systems
 Teaching materials for the lecture on Minor Bodies in exoplanetary systems (University of Groningen).       <br />
 
