@@ -11,6 +11,8 @@ I am Quentin, a researcher at the European Space Agency (ESA), where I study the
 
 To analyse exoplanet atmospheric data, I have developed a number of tools and new techniques. This allowed me to extract the chemistry and physical properties of about 70 transitting exoplanets with HST, ranging from the temperate super-Earth LHS-1140b to the extremely-hot Jupiter KELT-9b. Interested in the properties of exoplanet populations, I am also deeply involved in the development of the ESA-Ariel mission. Ariel, which will be launched in 2029, will observe about 1000 exoplanets to answer the major questions of the field.
 
+---
+
 ### Research Interests
 My research interests include:
 
@@ -23,7 +25,7 @@ My research interests include:
 
 [PhD thesis](https://liveuclac-my.sharepoint.com/:b:/g/personal/ucapqch_ucl_ac_uk/EbUUk7ogPXVMrgRNv1yby5ABcuFv7nszdmY9Fc0n9sWjfA)
 
-
+---
 
 ### Contact
 Email (preferred): qchangeat [at] stsci.edu     <br />  
