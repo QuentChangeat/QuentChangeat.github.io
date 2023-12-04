@@ -6,6 +6,8 @@ subtitle:
 
 My research contribution includes 50+ publications, of which 11 are first-author works (h-index: 23). Have a look at my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg) for the full record.       <br />       <br />       <br />  
 
+---
+
 ### Highlights:       <br /> 
 
 <img src="https://quentchangeat.github.io/img/wasp39.jpg" alt="ai" width="40%" height="35%" align="right" style="float:right; padding-left:4px">
@@ -20,6 +22,7 @@ My research contribution includes 50+ publications, of which 11 are first-author
 <img src="https://quentchangeat.github.io/img/lea_hotter.png" alt="k9" width="40%" height="40%" align="left" style="float:left; padding-right:4px">
 **How can some planets be hotter than stars? We’ve started to unravel the mystery (Mar 2021):** The hottest exoplanet known so far is Kelt-9 b, which was discovered in 2016. In our study, we used publicly available data, taken by the Hubble Space Telescope, to obtain the eclipse spectrum of this planet. We then used open-source software to extract the presence of molecules and found there were plenty of metals (made from molecules). This discovery is interesting as it was previously thought that these molecules would not be present at such extreme temperatures – they would be broken apart into smaller compounds. This implies some complex chemical and dynamical processes must take place in KELT-9 b atmospheres. [Press Article in The Conversation](https://theconversation.com/how-can-some-planets-be-hotter-than-stars-weve-started-to-unravel-the-mystery-156427) - [Link to the Paper](https://iopscience.iop.org/article/10.3847/2041-8213/abd84f)     <br />       <br />       <br />  
 
+---
 
 ### Recent first-author publications (updated 02/03/23):
 
@@ -43,8 +46,9 @@ My research contribution includes 50+ publications, of which 11 are first-author
 
 - 2) Changeat et al. (2020a) - Impact of planetary mass uncertainties on exoplanet atmospheric retrievals, ApJ 896 107 ([arXiv](https://arxiv.org/abs/1908.06305))
 
-- 1) Changeat et al. (2019) - Towards a more complex description of chemical profiles in exoplanets retrievals: A 2-layer parameterisation, ApJ 886 39 ([arXiv](https://arxiv.org/abs/1903.11180))
+- 1) Changeat et al. (2019) - Towards a more complex description of chemical profiles in exoplanets retrievals: A 2-layer parameterisation, ApJ 886 39 ([arXiv](https://arxiv.org/abs/1903.11180))     <br />       <br />       <br />  
 
+---
 
 ### Major co-authored publications:
 
