@@ -23,45 +23,49 @@ My research contribution includes 50+ publications, of which 11 are first-author
 
 ### Recent first-author publications (updated 02/03/23):
 
-- Changeat, Edwards et al. (2022) - Five key exoplanet questions answered via the analysis of 25 hot Jupiter atmospheres in eclipse, ApJS 260 3 ([arXiv](https://arxiv.org/abs/2204.11729))
+- 11) Changeat, Yip (2023) - ESA-Ariel Data Challenge NeurIPS 2022: introduction to exo-atmospheric studies and presentation of the Atmospheric Big Challenge (ABC) Database, RASTI 2 1 45–61 ([arXiv](https://arxiv.org/abs/2206.14633))
 
-- Changeat (2022) - On spectroscopic phase-curve retrievals: H2 dissociation and thermal inversion in the atmosphere of the ultra-hot Jupiter WASP-103 b, AJ 163 106 ([arXiv](https://arxiv.org/abs/2112.09973))
+- 10) Changeat, Edwards et al. (2022) - Five key exoplanet questions answered via the analysis of 25 hot Jupiter atmospheres in eclipse, ApJS 260 3 ([arXiv](https://arxiv.org/abs/2204.11729))
 
-- Changeat et al. (2022) - Disentangling Atmospheric Compositions of K2-18 b with Next Generation Facilities, ExA 53 391 ([arXiv](https://arxiv.org/abs/2003.01486))
+- 9) Changeat (2022) - On spectroscopic phase-curve retrievals: H2 dissociation and thermal inversion in the atmosphere of the ultra-hot Jupiter WASP-103 b, AJ 163 106 ([arXiv](https://arxiv.org/abs/2112.09973))
 
-- Changeat et al. (2021) - An exploration of model degeneracies with a unified phase curve retrieval analysis: The light and dark sides of WASP-43 b, ApJ 913 73 ([arXiv](https://arxiv.org/abs/2103.14566))
+- 8) Changeat et al. (2022) - Disentangling Atmospheric Compositions of K2-18 b with Next Generation Facilities, ExA 53 391 ([arXiv](https://arxiv.org/abs/2003.01486))
 
-- Changeat & Edwards (2021) - The Hubble WFC3 Emission Spectrum of the Extremely-Hot Jupiter, KELT-9b, ApJ 907 22 ([arXiv](https://arxiv.org/abs/2101.00469))
+- 7) Changeat et al. (2021) - An exploration of model degeneracies with a unified phase curve retrieval analysis: The light and dark sides of WASP-43 b, ApJ 913 73 ([arXiv](https://arxiv.org/abs/2103.14566))
 
-- Changeat et al. (2020c) - KELT-11 b: Abundances of water and constraints on carbon-bearing molecules from the Hubble transmission spectrum, AJ 160 260 ([arXiv](https://arxiv.org/abs/2010.01310))
+- 6) Changeat & Edwards (2021) - The Hubble WFC3 Emission Spectrum of the Extremely-Hot Jupiter, KELT-9b, ApJ 907 22 ([arXiv](https://arxiv.org/abs/2101.00469))
 
-- Changeat & Al-Refaie (2020) - TauREx3 PhaseCurve: A 1.5D model for phase curve description, ApJ 898 155 ([arXiv](https://arxiv.org/abs/2006.14237))
+- 5) Changeat et al. (2020c) - KELT-11 b: Abundances of water and constraints on carbon-bearing molecules from the Hubble transmission spectrum, AJ 160 260 ([arXiv](https://arxiv.org/abs/2010.01310))
 
-- Changeat et al. (2020b) - Alfnoor: A Retrieval Simulation of the Ariel Target List, AJ 160 80 ([arXiv](https://arxiv.org/abs/2003.01839))
+- 4) Changeat & Al-Refaie (2020) - TauREx3 PhaseCurve: A 1.5D model for phase curve description, ApJ 898 155 ([arXiv](https://arxiv.org/abs/2006.14237))
 
-- Changeat et al. (2020a) - Impact of planetary mass uncertainties on exoplanet atmospheric retrievals, ApJ 896 107 ([arXiv](https://arxiv.org/abs/1908.06305))
+- 3) Changeat et al. (2020b) - Alfnoor: A Retrieval Simulation of the Ariel Target List, AJ 160 80 ([arXiv](https://arxiv.org/abs/2003.01839))
 
-- Changeat et al. (2019) - Towards a more complex description of chemical profiles in exoplanets retrievals: A 2-layer parameterisation, ApJ 886 39 ([arXiv](https://arxiv.org/abs/1903.11180))
+- 2) Changeat et al. (2020a) - Impact of planetary mass uncertainties on exoplanet atmospheric retrievals, ApJ 896 107 ([arXiv](https://arxiv.org/abs/1908.06305))
+
+- 1) Changeat et al. (2019) - Towards a more complex description of chemical profiles in exoplanets retrievals: A 2-layer parameterisation, ApJ 886 39 ([arXiv](https://arxiv.org/abs/1903.11180))
 
 
 ### Major co-authored publications:
 
-- Yip, Changeat et al. (2022) - To Sample or Not To Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalising Flows ([arXiv](https://arxiv.org/abs/2205.07037))
+- 11) Edwards, Changeat et al. (2023) - Exploring the Ability of Hubble Space Telescope WFC3 G141 to Uncover Trends in Populations of Exoplanet Atmospheres through a Homogeneous Transmission Survey of 70 Gaseous Planets ([arXiv](https://arxiv.org/abs/2211.00649))
 
-- Barstow, Changeat et al. (2022) - A retrieval challenge exercise for the Ariel mission ([arXiv](https://arxiv.org/abs/2203.00482))
+- 10) Yip, Changeat et al. (2022) - To Sample or Not To Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalising Flows ([arXiv](https://arxiv.org/abs/2205.07037))
 
-- Al-Refaie, Changeat et al. (2022) - A comparison of chemical models of exoplanet atmospheres enabled by TauREx 3.1 ([arXiv](https://arxiv.org/abs/2110.01271))
+- 9) Barstow, Changeat et al. (2022) - A retrieval challenge exercise for the Ariel mission ([arXiv](https://arxiv.org/abs/2203.00482))
 
-- Ito, Changeat et al. (2021) - Detectability of Rocky-Vapour Atmospheres on Super-Earths with Ariel ([arXiv](https://arxiv.org/abs/2103.04342))
+- 8) Al-Refaie, Changeat et al. (2022) - A comparison of chemical models of exoplanet atmospheres enabled by TauREx 3.1 ([arXiv](https://arxiv.org/abs/2110.01271))
 
-- Yip, Changeat et al. (2020) - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals ([arXiv](https://arxiv.org/abs/2011.11284))
+- 7) Ito, Changeat et al. (2021) - Detectability of Rocky-Vapour Atmospheres on Super-Earths with Ariel ([arXiv](https://arxiv.org/abs/2103.04342))
 
-- Edwards, Changeat et al. (2020d) - Hubble WFC3 Spectroscopy of the Habitable-zone Super-Earth LHS 1140 b ([arXiv](https://arxiv.org/abs/2011.08815))
+- 6) Yip, Changeat et al. (2020) - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals ([arXiv](https://arxiv.org/abs/2011.11284))
 
-- Yip, Changeat et al. (2020) - On The Compatibility of Ground-based and Space-based Data: WASP-96 b, An Example ([arXiv](https://arxiv.org/abs/2009.10438))
+- 5) Edwards, Changeat et al. (2020d) - Hubble WFC3 Spectroscopy of the Habitable-zone Super-Earth LHS 1140 b ([arXiv](https://arxiv.org/abs/2011.08815))
 
-- Edwards, Changeat et al. (2020b) - ARES I: WASP-76 b, A Tale of Two HST Spectra ([arXiv](https://arxiv.org/abs/2005.02374))
+- 4) Yip, Changeat et al. (2020) - On The Compatibility of Ground-based and Space-based Data: WASP-96 b, An Example ([arXiv](https://arxiv.org/abs/2009.10438))
 
-- Edwards, Changeat et al. (2020a) - Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets ([arXiv](https://arxiv.org/abs/2005.01684))
+- 3) Edwards, Changeat et al. (2020b) - ARES I: WASP-76 b, A Tale of Two HST Spectra ([arXiv](https://arxiv.org/abs/2005.02374))
 
-- Al-Refaie, Changeat et al. (2020) - TauREx III: A fast, dynamic and extendable framework for retrievals ([arXiv](https://arxiv.org/abs/1912.07759))
+- 2) Edwards, Changeat et al. (2020a) - Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets ([arXiv](https://arxiv.org/abs/2005.01684))
+
+- 1) Al-Refaie, Changeat et al. (2020) - TauREx III: A fast, dynamic and extendable framework for retrievals ([arXiv](https://arxiv.org/abs/1912.07759))
