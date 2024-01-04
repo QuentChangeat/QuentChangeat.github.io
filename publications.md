@@ -29,6 +29,8 @@ My research contribution includes 50+ publications, of which 11 are first-author
 
 ### Recent first-author publications (updated 02/03/23):
 
+- 12) Changeat, Skinner et al. (2024) - Is the atmosphere of the ultra-hot Jupiter WASP-121b variable?, ApJS ([arXiv](https://arxiv.org/abs/2401.01465))
+
 - 11) Changeat, Yip (2023) - ESA-Ariel Data Challenge NeurIPS 2022: introduction to exo-atmospheric studies and presentation of the Atmospheric Big Challenge (ABC) Database, RASTI 2 1 45–61 ([arXiv](https://arxiv.org/abs/2206.14633))
 
 - 10) Changeat, Edwards et al. (2022) - Five key exoplanet questions answered via the analysis of 25 hot Jupiter atmospheres in eclipse, ApJS 260 3 ([arXiv](https://arxiv.org/abs/2204.11729))
