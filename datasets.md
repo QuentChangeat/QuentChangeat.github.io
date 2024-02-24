@@ -4,9 +4,6 @@ title: Exoplanet Datasets
 subtitle: 
 ---
 
-Exoplanet datasets and resources.
-  
----
 
 ### Catalogues of HST exoplanet spectra:
 <img src="https://quentchangeat.github.io/img/eclipse_spectra.png" alt="eclipse" width="45%" height="35%" align="left" style="padding-right:4px">
