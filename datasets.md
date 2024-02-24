@@ -19,7 +19,7 @@ In [Changeat et al. 2022](https://iopscience.iop.org/article/10.3847/1538-4365/a
 ---
 
 ### Ariel Data Challenge 2022 Dataset:
-<img src="https://quentchangeat.github.io/img/ariel_pop.png" alt="Ariel" width="25%" height="25%" align="left" style="float:left; padding-right:4px">
+<img src="https://quentchangeat.github.io/img/ariel_pop.png" alt="Ariel" width="28%" height="28%" align="left" style="float:left; padding-right:4px">
 
 As part of the Ariel data challenge 2022 ([Yip et al. 2022](https://arxiv.org/abs/2206.14642)) supported by the NeurIPS Conference, we produced 105,877 realistic Ariel observations in Tier-2 resolutions complemented by atmospheric retrievals produced from TauREx3 using the Nested Sampling algorithms. The article describing the problem setup and the Ariel Big challenge (ABC) Database is [Changeat & Yip 2022](https://academic.oup.com/rasti/article/2/1/45/6998590).       <br />       <br />
 
