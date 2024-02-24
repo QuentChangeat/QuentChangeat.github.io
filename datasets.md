@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Datasets
+title: Exoplanet Datasets
 subtitle: 
 ---
 
