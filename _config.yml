@@ -30,6 +30,7 @@ navbar-links:
   Home: ""
   Publications: "publications"
   Projects: "projects"
+  Datasets: "datasets"
   Outreach: "teaching"
   #CV: "CV"
   #  Contact: "contact"
