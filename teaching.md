@@ -7,6 +7,7 @@ subtitle:
 Note: The resources provided here are under Creative Commons License (CC BY). 
 
 
+<!---
 ---
 
 ### Lecture at Groningen: Minor Bodies in Exoplanetary Systems
@@ -15,7 +16,7 @@ Teaching materials for the lecture on Minor Bodies in exoplanetary systems (Univ
 <u>Mini Lecture 1</u>: Importance for planetary formation and observations.       <br />
 Slides: [Slides 31/10/23](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EYEp-gb9AitFmO1fwf5CcSIB2_naj1YCIsgPs7zJJ2bnxQ?e=4maJ3b)       <br />
 Problems: [Problem 1](https://quentchangeat.github.io/img/Problem1.pdf), [Problem 2](https://quentchangeat.github.io/img/Problem2.pdf).
-
+-->
 ---
 
 ### Winter School [Rencontre Exobiologiques RED’22](http://www.exobiologie.fr/red/index.php/en/red16-astrobiology-course/)
