@@ -2,7 +2,7 @@
 bigimg: img/Artboard_jwst.png
 layout: page
 title: Quentin Changeat
-subtitle: European Space Agency (ESA) / Space Telescope Science Institute (STScI)
+subtitle: Kapteyn Institute, Rijksuniversiteit Groningen
 css: custom/main.css
 
 ---
