@@ -13,6 +13,11 @@ To analyse exoplanet atmospheric data, I have developed a number of tools and ne
 
 ---
 
+### Vacancies
+PhD positions available at Kapteyn:
+
+- 2024 PhD position: Interpretation of exoplanet atmospheric data from the JWST and Ariel telescopes [link](https://www.rug.nl/research/kapteyn/vacatures/phd-positions)
+
 ### Research Interests
 My research interests include:
 
