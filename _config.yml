@@ -2,7 +2,7 @@
 title: Quentin Changeat
 description: >-
   Quentin Changeat — Assistant Professor at the Kapteyn Astronomical Institute,
-  University of Groningen, and head of the ExoAIM Lab. Exoplanet atmospheres
+  University of Groningen, and lead of the ExoAIM Lab. Exoplanet atmospheres
   with JWST, Hubble and ESA Ariel.
 url: "https://quentchangeat.github.io"
 baseurl: ""
@@ -23,15 +23,15 @@ social:
     - "https://www.linkedin.com/in/quentin-changeat"
 
 # Things you may want to edit --------------------------------------------------
-email: q.changeat@rug.nl
+email: q.changeat[at]rug.nl
 exoaim_url: "https://exoaim.com"
 cv: /img/cv_quentin_changeat.pdf
 publications_url: "https://exoaim.com/publication/"
 links:                       # shown in the footer, in this order
   - name: Google Scholar
-    url: ""                  # TODO: paste your Google Scholar profile URL
+    url: "https://scholar.google.com/citations?user=wnonTucAAAAJ&hl=en"                  
   - name: ORCID
-    url: ""                  # TODO: paste https://orcid.org/xxxx-xxxx-xxxx-xxxx
+    url: "https://orcid.org/0000-0001-6516-4493"                  
   - name: Publication library
     url: "https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg"
   - name: GitHub
