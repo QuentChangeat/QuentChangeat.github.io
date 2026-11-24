@@ -1,182 +1,57 @@
-# --- General options --- #
-
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://quentchangeat.github.io/"
-# Use following baseurl for local hosting
-baseurl: ""
-# Use this for cmu hosting
-#baseurl: "/user/kluckow"
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
-
-# Name of website
+# Site settings ---------------------------------------------------------------
 title: Quentin Changeat
+description: >-
+  Quentin Changeat — Assistant Professor at the Kapteyn Astronomical Institute,
+  University of Groningen, and head of the ExoAIM Lab. Exoplanet atmospheres
+  with JWST, Hubble and ESA Ariel.
+url: "https://quentchangeat.github.io"
+baseurl: ""
+lang: en
+timezone: Europe/Amsterdam
 
-# Short description of your site
-description: Academic website
-
-# --- Navigation bar options --- #
-
-# List of links in the navigation bar
-navbar-links:
-  # Links: "links"
-  Home: ""
-  Publications: "publications"
-  Projects: "projects"
-  Datasets: "datasets"
-  Outreach: "teaching"
-  #CV: "CV"
-  #  Contact: "contact"
-  # Resources:
-  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #   - Learn markdown: "http://www.markdowntutorial.com/"
-  #   - GitHub Pages: "https://pages.github.com/"
-  
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/img/profile2.png"
-
-# --- Footer options --- #
-
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
+# Used by jekyll-seo-tag (title, description, social card, structured data)
 author:
   name: Quentin Changeat
-  email: "quentin.changeat18@ucl.ac.uk"
-  github: QuentChangeat   # eg. daattali
-  linkedin: quentin-changeat  # eg. daattali
+  url: "https://quentchangeat.github.io"
+image: /assets/img/og-image.png
+logo: /assets/img/portrait.jpg
+social:
+  name: Quentin Changeat
+  links:
+    - "https://exoaim.com"
+    - "https://github.com/QuentChangeat"
+    - "https://www.linkedin.com/in/quentin-changeat"
 
+# Things you may want to edit --------------------------------------------------
+email: q.changeat@rug.nl
+exoaim_url: "https://exoaim.com"
+cv: /img/cv_quentin_changeat.pdf
+publications_url: "https://exoaim.com/publication/"
+links:                       # shown in the footer, in this order
+  - name: Google Scholar
+    url: ""                  # TODO: paste your Google Scholar profile URL
+  - name: ORCID
+    url: ""                  # TODO: paste https://orcid.org/xxxx-xxxx-xxxx-xxxx
+  - name: Publication library
+    url: "https://ui.adsabs.harvard.edu/public-libraries/Bt4TNyP4RTOi1UoeyWElYg"
+  - name: GitHub
+    url: "https://github.com/QuentChangeat"
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/quentin-changeat"
 
-# Select which links to show in the footer
-footer-links-active:
-  rss: false
-  facebook: false
-  email: true
-  twitter: false
-  google-plus: false
-  github: true
-  linkedin: true
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
-
-# Select which share links to show in posts
-share-links-active:
-  twitter: false
-  facebook: false
-  google: false
-  linkedin: true
-
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-#url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
-
-# --- Misc --- #
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
-
-# Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-129059882-1"
-
-# Facebook App ID
-# fb_app_id: ""
-
-# Excerpt Word Length
-# Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
-
-# --- Don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+# Build ------------------------------------------------------------------------
 markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-
 kramdown:
   input: GFM
-  
-# Default YAML values (more information on Jekyll's site)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # all files
-    values:
-      layout: "page"
-      show-avatar: true
-
-# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: false
-
-site-css: true
-
-# Exclude these files from production site
+  - scope: { path: "" }
+    values: { layout: page }
 exclude:
+  - README.md
   - Gemfile
   - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-  - Vagrantfile
-
-scholar:
-  style: apa
-
-  # style: acm-siggraph
-  #  style: apa-5th-edition
-  locale: en
-
-  sort_by: none
-  order: ascending
-
-  group_by: none
-  group_order: ascending
-
-  source: ./_bibliography
-  #bibliography: references.bib
-  #bibliography_template: bibtemplate
-  repository: papers
-
-  replace_strings: true
-  join_strings:    true
-
-  use_raw_bibtex_entry: true
-  bibtex_filters:
-  - superscript
-  - latex
-
-  details_dir:    bibtex
-  #details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
-
-  # This is where the refs/pubs are when using {% cite %}
-  relative: "/publications"
-
-gems:
-    #  - jekyll-paginate
-  - jekyll/scholar
-  - jekyll-seo-tag
-
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+  - scripts/
+  - _to_delete/

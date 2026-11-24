@@ -1,56 +1,32 @@
 ---
-layout: page
-title: Teaching and Outreach
-subtitle: 
+title: Teaching & outreach
+lead: Lectures, tutorials and outreach material. Resources are shared under a Creative Commons Attribution licence (CC BY).
 ---
 
-Note: The resources provided here are under Creative Commons License (CC BY). 
+## University of Groningen
 
+**Numerical Methods** — course for physics and astronomy students, built around group projects.
 
-<!---
----
+## Schools and tutorials
 
-### Lecture at Groningen: Minor Bodies in Exoplanetary Systems
-Teaching materials for the lecture on Minor Bodies in exoplanetary systems (University of Groningen).       <br />
+### Winter school — [Rencontres Exobiologiques RED'22](http://www.exobiologie.fr/red/index.php/en/red16-astrobiology-course/)
+*Space missions for the detection and characterisation of exoplanets.* An introductory course on extrasolar planets: history, detection techniques, the principles behind atmospheric observations and the main observatories.
+[Lecture slides](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
 
-<u>Mini Lecture 1</u>: Importance for planetary formation and observations.       <br />
-Slides: [Slides 31/10/23](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EYEp-gb9AitFmO1fwf5CcSIB2_naj1YCIsgPs7zJJ2bnxQ?e=4maJ3b)       <br />
-Problems: [Problem 1](https://quentchangeat.github.io/img/Problem1.pdf), [Problem 2](https://quentchangeat.github.io/img/Problem2.pdf).
--->
----
+### Conference tutorial — [Exosystèmes II](https://exosystemes2.sciencesconf.org/)
+A two-hour hands-on tutorial on atmospheric retrieval with TauREx: an introduction to retrieval techniques and the basic functionality of the code.
+[Tutorial material](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EuwHMBWvw7NEhC6bw32W-ZABZNuRGYjTVfSpdORDidvvYQ?e=5yhB4V)
 
-### Winter School [Rencontre Exobiologiques RED’22](http://www.exobiologie.fr/red/index.php/en/red16-astrobiology-course/)
-<img src="https://quentchangeat.github.io/img/red.png" alt="red" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
-Lecture: Space missions for Detection & characterisation of exoplanets.
-This is an introductory course to extrasolar planets. It presents the history, the detection techniques, the principles involves in the observation of atmospheres as well as the main observatories.
-[Link to the Lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EcVI1MPSDUBOup4iAj0_NI0BYoQICZQ2vJlQdRLzmQKgOw?e=VzeBZS)
+### Summer school — [ARES 2021](http://www.iap.fr/useriap/beaulieu/ARIEL/ARIEL-School2021-index.html)
+Organiser and lecturer. The school addressed modelling accuracy in atmospheric retrievals: as spectra improve, 1D chemistry and cloud models and 2D circulation models reach their limits, and we explored the biases these simplifications introduce for JWST and Ariel.
+[L2 — Atmospheric structure](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/Ea860jjAmnREtR_NDDYYK8cBFcKDvEoE5bbNvZierFycAA?e=dIVAbY) · [L6 — Retrievals](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EQFaXvD9j3pCir9cY5_eNGYB-I9B_6MadxGkSPPnEy8d8A?e=DtnJFZ)
 
----
+## Outreach
 
-### Conference [Exosystemes II](https://exosystemes2.sciencesconf.org/)
-<img src="https://quentchangeat.github.io/img/exosystemes.png" alt="exosystems" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
-This material was produced as part of a 2h practical tutorial on Atmospheric retrieval with TauREX. It presents an introduction to atmospheric retrieval techniques and presents the basic functionalities of TauREx.
-
-[Link to TauREx tutorial](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EuwHMBWvw7NEhC6bw32W-ZABZNuRGYjTVfSpdORDidvvYQ?e=5yhB4V)
+### [ORBYTS](http://www.twinkle-spacemission.co.uk/orbyts/) — exoplanets for secondary-school students
+Introductory lectures for the education programme of Twinkle, the low-cost space telescope initiative of [Blue Skies Space](https://www.twinkle-spacemission.co.uk/about/): the Solar System, detection methods, telescopes, atmospheres and interiors.
+[Python notebook](https://colab.research.google.com/drive/1dKtBacFXF8ahjZWxPA4ineJ0E8D7uU8j) · [Lecture notes](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EgDOXABg22VDlDgFrhmss7YB6TM87CLZblsAZaTJEeRHkw)
 
 ---
 
-### Summer School [ARES](http://www.iap.fr/useriap/beaulieu/ARIEL/ARIEL-School2021-index.html) 2021
-
-Organisation and Teaching of the ARES Summer School 2021. This school addressed the central question of modelling accuracy in the context of atmospheric retrievals for exoplanets. As spectroscopic observations are improving from simple composition retrieval towards inference of more accurate atmospheric structures, one-dimensional models in chemistry, clouds, or 2D models in global circulation may reach their limits. We explored the biases of simplifying assumptions on retrievals for next-generation observatories (JWST and Ariel).
-
-[L2 Atmospheric structure lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/Ea860jjAmnREtR_NDDYYK8cBFcKDvEoE5bbNvZierFycAA?e=dIVAbY)
-
-[L6 Retrieval lecture](https://liveuclac-my.sharepoint.com/:p:/g/personal/ucapqch_ucl_ac_uk/EQFaXvD9j3pCir9cY5_eNGYB-I9B_6MadxGkSPPnEy8d8A?e=DtnJFZ)
-
----
-
-### High School [ORBYTs](http://www.twinkle-spacemission.co.uk/orbyts/) program: An introduction to exoplanetary sciences
-<img src="https://quentchangeat.github.io/img/bssl.png" alt="bssl" width="12%" height="12%" align="left" style="float:left; padding-right:4px">
-
-As part of the [BSSL](https://www.twinkle-spacemission.co.uk/about/) independant low cost space telescope initiative Twinkle, I participated in their education program by providing introductory lectures on exoplanets to high scool students. Lectures cover the solar system, detection methods, telescopes, atmospheres and interiors. 
-
-[Python notebook](https://colab.research.google.com/drive/1dKtBacFXF8ahjZWxPA4ineJ0E8D7uU8j?fbclid=IwAR0vISBscAObo_OLWlddxSt3fLFbGftBbV6wKQRo7C4sC7MOFT3XXwsunrY)
-
-[Lecture notes](https://liveuclac-my.sharepoint.com/:f:/g/personal/ucapqch_ucl_ac_uk/EgDOXABg22VDlDgFrhmss7YB6TM87CLZblsAZaTJEeRHkw)
-
+Looking for a thesis project or a PhD position? See the openings at the [ExoAIM Lab]({{ site.exoaim_url }}).

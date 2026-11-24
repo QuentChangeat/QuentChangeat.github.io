@@ -1,7 +1,6 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-#gem 'execjs'
-#gem 'therubyracer'
-#gem 'github-pages'
-#gem 'jekyll-paginate'
-gem 'jekyll-scholar'
+# Same versions GitHub Pages uses, for previewing locally with
+#   bundle install && bundle exec jekyll serve
+gem "github-pages", group: :jekyll_plugins
+gem "webrick"

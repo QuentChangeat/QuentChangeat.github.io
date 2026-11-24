@@ -1,0 +1,41 @@
+{
+  "updated": "2026-11-24",
+  "items": [
+    {
+      "kind": "News",
+      "title": "TauREx4: eScience grant for the next generation of our retrieval code",
+      "url": "https://exoaim.com/post/2026_11_18_taurex4_escience/",
+      "date": "2026-11-17"
+    },
+    {
+      "kind": "Paper",
+      "title": "Stratospheres with no stars: Opacity-driven inversions in self-luminous atmospheres",
+      "url": "https://exoaim.com/publication/kimura2026_stratospheres/",
+      "date": "2026-11-01"
+    },
+    {
+      "kind": "Paper",
+      "title": "Ariel Tier 3 Observations: An Opportunity to Explore both Stellar and Planetary Variability through Broad Wavelength Time-domain Spectroscopy",
+      "url": "https://exoaim.com/publication/thompson2026_tier/",
+      "date": "2026-10-01"
+    },
+    {
+      "kind": "Paper",
+      "title": "WALTzER: Wide-band Atmospheric Laboratory for Transiting Exoplanet Research",
+      "url": "https://exoaim.com/publication/sreejith2026_waltzer/",
+      "date": "2026-10-01"
+    },
+    {
+      "kind": "Paper",
+      "title": "A JWST Transit of a Jupiter Analog. II. A Search for Exomoons",
+      "url": "https://exoaim.com/publication/kipping2026_transit/",
+      "date": "2026-08-01"
+    },
+    {
+      "kind": "News",
+      "title": "sub-Neptunes are like Karakara senbei, observing their interiors is challenging!",
+      "url": "https://exoaim.com/post/2026_07_25_ito_meltyq/",
+      "date": "2026-07-25"
+    }
+  ]
+}

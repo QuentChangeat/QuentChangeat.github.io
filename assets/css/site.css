@@ -1,0 +1,96 @@
+/* Quentin Changeat — personal site (concept A "Signpost") */
+
+@font-face { font-family: "Inter"; font-weight: 400; font-style: normal; font-display: swap; src: url("../fonts/inter-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Inter"; font-weight: 500; font-style: normal; font-display: swap; src: url("../fonts/inter-latin-500-normal.woff2") format("woff2"); }
+@font-face { font-family: "Inter"; font-weight: 600; font-style: normal; font-display: swap; src: url("../fonts/inter-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Space Grotesk"; font-weight: 500; font-style: normal; font-display: swap; src: url("../fonts/space-grotesk-latin-500-normal.woff2") format("woff2"); }
+@font-face { font-family: "Space Grotesk"; font-weight: 600; font-style: normal; font-display: swap; src: url("../fonts/space-grotesk-latin-600-normal.woff2") format("woff2"); }
+
+:root {
+  --bg: #0a0e1a;
+  --surface: #121829;
+  --line: #222b45;
+  --text: #e6e9f2;
+  --text-2: #c3c9d9;
+  --muted: #9aa3ba;
+  --heading: #ffffff;
+  --link: #9db4ff;
+  --accent: #2f5fe0;          /* ExoAIM blue */
+  --display: "Space Grotesk", "Inter", system-ui, sans-serif;
+  --body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--body); font-size: 17px; line-height: 1.6; }
+a { color: var(--link); text-decoration: none; }
+a:hover { color: #fff; }
+a:focus-visible { outline: 2px solid var(--link); outline-offset: 3px; border-radius: 4px; }
+img { max-width: 100%; height: auto; }
+
+.wrap { max-width: 1120px; margin: 0 auto; padding: 48px 24px; display: flex; flex-direction: column; gap: 40px; min-height: 100vh; }
+main { display: flex; flex-direction: column; gap: 40px; flex: 1; }
+
+/* Header */
+.site-header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; }
+.brand { font-family: var(--display); font-weight: 600; font-size: 18px; letter-spacing: .02em; color: var(--heading); }
+.site-header nav { display: flex; gap: 24px; flex-wrap: wrap; font-size: 15px; }
+.site-header nav a[aria-current="page"] { color: #fff; text-decoration: underline; text-underline-offset: 6px; }
+.nav-strong { color: #fff !important; font-weight: 600; }
+
+/* Hero */
+.hero { display: flex; flex-wrap: wrap; gap: 48px; align-items: center; }
+.portrait { width: 220px; height: 220px; border-radius: 50%; object-fit: cover; border: 1px solid var(--line); }
+.hero-text { flex: 999 1 520px; min-width: 0; display: flex; flex-direction: column; gap: 16px; }
+.eyebrow { margin: 0; font-size: 13px; text-transform: uppercase; letter-spacing: .14em; color: var(--muted); }
+.hero h1 { margin: 0; font-family: var(--display); font-weight: 600; font-size: clamp(44px, 7vw, 64px); line-height: 1.02; color: var(--heading); }
+.bio { margin: 0; font-size: 19px; line-height: 1.55; color: var(--text-2); max-width: 640px; }
+
+/* ExoAIM call to action */
+.cta { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 24px; padding: 32px 36px; border-radius: 20px; background: var(--accent); color: #fff; transition: transform .15s ease, box-shadow .15s ease; }
+.cta:hover { color: #fff; transform: translateY(-2px); box-shadow: 0 10px 30px rgba(47, 95, 224, .35); }
+.cta-text { display: flex; flex-direction: column; gap: 6px; }
+.cta-eyebrow { font-size: 13px; text-transform: uppercase; letter-spacing: .14em; color: #dbe4ff; }
+.cta-title { font-family: var(--display); font-size: clamp(26px, 4vw, 34px); font-weight: 600; }
+.cta-sub { font-size: 16px; color: #e6ecff; }
+.cta-button { font-family: var(--display); font-size: 18px; font-weight: 600; padding: 14px 22px; border-radius: 999px; background: #fff; color: #1d3fb0; white-space: nowrap; }
+
+/* Latest from the lab */
+.latest { display: flex; flex-direction: column; gap: 16px; }
+.section-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+.section-head h2 { margin: 0; font-family: var(--display); font-size: 22px; font-weight: 600; color: var(--heading); }
+.muted { color: var(--muted); font-size: 14px; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+.card { display: flex; flex-direction: column; gap: 10px; padding: 22px; border-radius: 14px; background: var(--surface); border: 1px solid var(--line); color: var(--text); transition: border-color .15s ease; }
+.card:hover { color: var(--text); border-color: #3d4b78; }
+.card-meta { font-size: 13px; color: var(--muted); }
+.card-title { font-size: 17px; line-height: 1.4; font-weight: 500; }
+
+/* Inner pages */
+.page { display: flex; flex-direction: column; gap: 12px; max-width: 820px; }
+.page-title { margin: 0; font-family: var(--display); font-weight: 600; font-size: clamp(36px, 5vw, 48px); line-height: 1.1; color: var(--heading); }
+.lead { margin: 0; font-size: 19px; color: var(--text-2); }
+.prose { color: var(--text-2); }
+.prose h2 { margin: 40px 0 8px; font-family: var(--display); font-size: 24px; font-weight: 600; color: var(--heading); line-height: 1.25; }
+.prose h3 { margin: 28px 0 6px; font-size: 18px; font-weight: 600; color: var(--heading); }
+.prose p, .prose ul { margin: 0 0 14px; }
+.prose p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+.prose li { margin-bottom: 6px; }
+.prose img { border-radius: 10px; border: 1px solid var(--line); }
+.prose .figs { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; margin: 16px 0; }
+.prose hr { border: 0; border-top: 1px solid var(--line); margin: 32px 0; }
+.downloads { display: flex; flex-wrap: wrap; gap: 12px; margin: 8px 0 0; padding: 0; list-style: none; }
+.downloads a { display: inline-block; padding: 10px 16px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--text); font-size: 15px; }
+.downloads a:hover { border-color: #3d4b78; }
+
+/* Footer */
+.site-footer { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; padding-top: 24px; border-top: 1px solid var(--line); font-size: 14px; color: var(--muted); }
+.footer-links { display: flex; gap: 20px; flex-wrap: wrap; }
+
+@media (max-width: 600px) {
+  .wrap { padding: 28px 18px; gap: 32px; }
+  .hero { gap: 24px; }
+  .portrait { width: 140px; height: 140px; }
+  .cta { padding: 24px; }
+}
+@media (prefers-reduced-motion: reduce) { .cta, .card { transition: none; } .cta:hover { transform: none; } }

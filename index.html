@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<section class="hero">
+  <img class="portrait" src="{{ '/assets/img/portrait.jpg' | relative_url }}" alt="Portrait of Quentin Changeat" width="220" height="220">
+  <div class="hero-text">
+    <p class="eyebrow">Exoplanet atmospheres · JWST · Ariel</p>
+    <h1>Quentin Changeat</h1>
+    <p class="bio">Assistant Professor at the Kapteyn Astronomical Institute, University of Groningen, and head of the ExoAIM Lab. I decode the atmospheres of distant planets with JWST, Hubble and the upcoming ESA Ariel mission, and build the open-source tools to do it.</p>
+  </div>
+</section>
+
+<a class="cta" href="{{ site.exoaim_url }}">
+  <span class="cta-text">
+    <span class="cta-eyebrow">Research group</span>
+    <span class="cta-title">Visit the ExoAIM Lab</span>
+    <span class="cta-sub">Research, team, publications, software and open positions live at exoaim.com</span>
+  </span>
+  <span class="cta-button">exoaim.com →</span>
+</a>
+
+{% assign latest = site.data.exoaim.items | slice: 0, 3 %}
+{% if latest.size > 0 %}
+<section class="latest" aria-labelledby="latest-title">
+  <div class="section-head">
+    <h2 id="latest-title">Latest from the lab</h2>
+    <a class="muted" href="{{ site.exoaim_url }}/post/">All news on exoaim.com →</a>
+  </div>
+  <div class="cards">
+    {% for item in latest %}
+    <a class="card" href="{{ item.url }}">
+      <span class="card-meta">{{ item.kind }} · {% if item.kind == "Paper" %}{{ item.date | date: "%b %Y" }}{% else %}{{ item.date | date: "%-d %b %Y" }}{% endif %}</span>
+      <span class="card-title">{{ item.title }}</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
