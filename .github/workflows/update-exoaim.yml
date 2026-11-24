@@ -1,0 +1,31 @@
+name: Update latest ExoAIM items
+
+on:
+  schedule:
+    - cron: "17 5 * * 1"   # Mondays 05:17 UTC; delete these two lines to run by hand only
+  workflow_dispatch:        # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch exoaim.com feeds
+        run: python scripts/update_exoaim_feed.py
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- _data/exoaim.json; then
+            echo "Nothing new on exoaim.com."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add _data/exoaim.json
+          git commit -m "Update latest items from exoaim.com"
+          git push
